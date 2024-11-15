@@ -1,0 +1,18 @@
+@media (max-width: 768px) {
+    nav .nav-links {
+      display: none;
+    }
+  
+    #hamburger-nav {
+      display: block;
+    }
+  
+    section {
+      padding: 2vh 5rem;
+    }
+  
+    .experience-table table, .project-card {
+      font-size: 0.8rem;
+    }
+  }
+  
